@@ -8,6 +8,7 @@ public class Movie {
     {
         this.movieId=movieId;
         this.name = name;
+    //
     }
 
     public String getMovieId()
